@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Naruto Bounce",
+"productVersion": "0.1",
+"dataUrl": "final.data.unityweb",
+"wasmCodeUrl": "final.wasm.code.unityweb",
+"wasmFrameworkUrl": "final.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "final.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.21f1"
+}
